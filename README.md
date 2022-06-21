@@ -1,4 +1,4 @@
-Hi 👋, I’m Martín :). I’m passionate about learning/teaching about software languages, tools and cloud computing (AWS). Also interested in solving problems with simple solutions using computer technologies.
+Hi 👋, I’m Martín :). I’m passionate about learning/teaching about software languages, tools and cloud computing (AWS). Also interested in solving problems with the simplest solution using computer technologies.
 
 Working at https://kreuzwerker.de
 
